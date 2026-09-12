@@ -1,0 +1,12 @@
+{
+  "base_url": "https://nordicmafia.org/",
+  "observer_interval_seconds": 2.0,
+  "mobile_panel": true,
+  "mobile_panel_port": 8765,
+  "enabled_activities": {
+    "fight_club": false,
+    "crime": false,
+    "car_theft": false,
+    "extortion": false
+  }
+}
